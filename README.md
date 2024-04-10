@@ -4,7 +4,7 @@ Este proyecto consiste en la creación de una página web tributo utilizando HTM
 
 ## Instrucciones de Uso
 
-1. Clona este repositorio en tu máquina local: git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+1. Clona este repositorio en tu máquina local: git clone https://github.com/Andres-ann/FreeCodeCamp-webTributo.git
 
 2. Abre el archivo `index.html` en tu navegador web para visualizar la página web tributo.
 
